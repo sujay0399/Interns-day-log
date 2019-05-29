@@ -13,6 +13,18 @@ Yet to see the documents I should sign
 ## Things I liked putting work on 
 Looking around the internet for data is helping me learn new things
 
+| Day Number  |  Planned Work | Delivered| Ticket |
+|---|---|---|---|
+| Day 2  | Gather Data  | Empty  | Empty  |
+| Day 3  | Gather Data  | Empty  | Empty  |
+| Day 4  | Gather Data  | Empty  | Empty  |
+| Day 5  | Gather Data  | Empty  | Empty  |
+| Day 6  | Gather Data  | Empty  | Empty  |
+| Day 7  | Gather Data  | Empty  | Empty  |
+
+
+
+
 
 
 

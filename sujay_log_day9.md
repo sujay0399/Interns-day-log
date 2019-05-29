@@ -7,7 +7,6 @@ In my one month internship I will be submitting per day log.
 | 10 | Feedback on the submission being mandatory  |   | [issue](https://github.com/tapaswenipathak/CFP/issues/25)  |
 
 
-
 ## Things I planned
 - build forms for registering organizers, creating events.
 
